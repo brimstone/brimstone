@@ -4,7 +4,5 @@
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
 
 #### 📫 How to reach me 
-- Twitter: https://twitter.com/brimston3
 - Fediverse: https://mastodon.social/@brimstone
-- Blog: https://brimstone.keybase.pub
 - IRC: brimstone on freenode
